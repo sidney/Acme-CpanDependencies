@@ -1,0 +1,29 @@
+NAME
+
+    Acme::TestCpanmDependencies - a test module to try to debug an issue
+
+SYNOPSIS
+
+    Nothing to see here, just testing if it builds
+
+DESCRIPTION
+
+    This module is supposed to have a configure_dependency to see if that works
+
+INSTALLATION
+
+    Whatever
+
+DEPENDENCIES
+
+    perl 5.14 or later
+    MakeMaker 6.46 or later
+    NetAddr::IP 4.01 or later
+
+COPYRIGHT
+
+    Copyright 2023 Sidney Markowitz
+
+LICENSE
+
+    This software is licensed under the same terms of the Apache License 2.0.

@@ -1,0 +1,9 @@
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+lib/Acme/TestCpanmDependencies.pm
+lib/Acme/TestCpanmDependencies/DepTest.pm
+t/onetest.t

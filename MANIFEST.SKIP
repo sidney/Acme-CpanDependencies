@@ -1,0 +1,14 @@
+\.git$
+\.gitattributes$
+\.gitignore$
+\.git-placeholder
+dist\.ini
+lib/Acme/TestCpanmDependencies/(?!DepTest)
+^xt/
+^testdist/
+^Makefile$
+^blib/
+^pm_to_blib/
+/logs/
+/t/logs/
+^MYMETA.(json|yml)$
